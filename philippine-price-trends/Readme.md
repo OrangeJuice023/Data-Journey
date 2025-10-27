@@ -13,3 +13,8 @@ It visualizes inflation volatility, identifies high-inflation periods, and provi
 
 ## Recommended next Steps
 - Compare inflation with other economic indicators (GDP, property prices, etc.)
+
+
+# Visual Sample
+<img width="867" height="436" alt="image" src="https://github.com/user-attachments/assets/348d5338-0e11-4b7b-8dfc-07b5e02a2d6c" />
+<img width="719" height="367" alt="image" src="https://github.com/user-attachments/assets/e5b8654f-329e-4b35-8f56-ae85cedd19fd" />
